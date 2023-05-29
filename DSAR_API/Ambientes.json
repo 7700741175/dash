@@ -1,0 +1,17 @@
+{
+  "Servidor": "PREPROD1",
+  "Dados": [
+
+    {
+      "Nome": "CasasBahia",
+      "Local": "F:\\Projetos\\ViaVarejo\\Documentos\\",
+      "Arquivo": "deployHistory.json"
+    },
+    {
+      "Nome": "Extra",
+      "Local": "F:\\Projetos\\ViaVarejo\\Documentos\\",
+      "Arquivo": "deployHistory.json"
+    }
+
+  ]
+}
