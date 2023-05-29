@@ -1,6 +1,3 @@
-F:\Projetos\ViaVarejo\Dash_API\DSAR_API\bin\DSAR_API.dll.config
-F:\Projetos\ViaVarejo\Dash_API\DSAR_API\bin\DSAR_API.dll
-F:\Projetos\ViaVarejo\Dash_API\DSAR_API\bin\DSAR_API.pdb
 F:\Projetos\ViaVarejo\Dash_API\DSAR_API\bin\roslyn\csc.exe
 F:\Projetos\ViaVarejo\Dash_API\DSAR_API\bin\roslyn\csc.exe.config
 F:\Projetos\ViaVarejo\Dash_API\DSAR_API\bin\roslyn\csc.rsp
@@ -101,5 +98,8 @@ F:\Projetos\ViaVarejo\Dash_API\DSAR_API\bin\pt-br\System.Web.WebPages.Razor.reso
 F:\Projetos\ViaVarejo\Dash_API\DSAR_API\obj\Debug\Dash_API.csproj.AssemblyReference.cache
 F:\Projetos\ViaVarejo\Dash_API\DSAR_API\obj\Debug\Dash_API.csproj.CoreCompileInputs.cache
 F:\Projetos\ViaVarejo\Dash_API\DSAR_API\obj\Debug\Dash_API.csproj.CopyComplete
-F:\Projetos\ViaVarejo\Dash_API\DSAR_API\obj\Debug\DSAR_API.dll
-F:\Projetos\ViaVarejo\Dash_API\DSAR_API\obj\Debug\DSAR_API.pdb
+F:\Projetos\ViaVarejo\Dash_API\DSAR_API\bin\Dash_API.dll.config
+F:\Projetos\ViaVarejo\Dash_API\DSAR_API\bin\Dash_API.dll
+F:\Projetos\ViaVarejo\Dash_API\DSAR_API\bin\Dash_API.pdb
+F:\Projetos\ViaVarejo\Dash_API\DSAR_API\obj\Debug\Dash_API.dll
+F:\Projetos\ViaVarejo\Dash_API\DSAR_API\obj\Debug\Dash_API.pdb
